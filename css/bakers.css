@@ -1,0 +1,14 @@
+#big{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 6vh;
+    align-items: flex-end;
+}
+.bakers{
+    width: 25vw;
+    border-radius: 7%;
+}
+.bakers:hover{
+    transform: scale(1.03);
+}

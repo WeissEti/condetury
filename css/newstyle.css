@@ -1,0 +1,78 @@
+.cookiesorders{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;    
+}
+.namecookies1{
+    position: absolute;
+    display: flex;
+    font-weight: bold;
+    font-size: 20px;
+    transform: translate(-4%, -124%);
+    
+}
+.namecookies2{
+    position: absolute;
+    display: flex;
+    font-weight: bold;
+    font-size: 20px;
+    transform: translate(-174%, -129%);
+}
+.namecookies3{
+    position: absolute;
+    display: flex;
+    font-weight: bold;
+    font-size: 20px;
+    transform: translate(-380%, -133%);
+}
+.namecookies4{
+    position: absolute;
+    display: flex;
+    font-weight: bold;
+    font-size: 20px;
+    transform: translate(2%, -95%);
+}
+.namecookies5{
+    position: absolute;
+    display: flex;
+    font-weight: bold;
+    font-size: 20px;
+    transform: translate(-215%, -108%);
+}
+.namecookies6{
+    position: absolute;
+    display: flex;
+    font-weight: bold;
+    font-size: 20px;
+    transform: translate(-325%, -117%);
+}
+.namecookies7{
+    position: absolute;
+    display: flex;
+    font-weight: bold;
+    font-size: 20px;
+    transform: translate(2%, -134%);
+}
+.namecookies8{
+    position: absolute;
+    display: flex;
+    font-weight: bold;
+    font-size: 20px;
+    transform: translate(-131%, -116%);
+}
+.namecookies9{
+    position: absolute;
+    display: flex;
+    font-weight: bold;
+    font-size: 20px;
+    transform: translate(-355%, -114%);
+}
+/* #about{
+    /* display: flex; */
+    /* margin-right: 317px; */
+ 
+#aboutimage{
+    /* margin-left: 840px; */
+    width: 23vw;
+    margin-top: 166px;
+}

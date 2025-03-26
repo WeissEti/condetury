@@ -1,0 +1,14 @@
+#big{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 6vh;
+    align-items: flex-end;
+}
+.deserts{
+    width: 26vw;
+    border-radius: 7%;
+}
+.deserts:hover{
+    transform: scale(1.02);
+}
